@@ -1,6 +1,5 @@
 /*global collectSameElements*/
 'use strict';
-
 describe('practice-1-3', () => {
 
   const collectionA = ['a', 'e', 'h', 't', 'f', 'c', 'g', 'b', 'd'];
